@@ -1,7 +1,7 @@
 typing 
 streamlit 
 pandas 
-matplotlib.pyplot 
+matplotlib 
 numpy 
 cv2
 pickle
